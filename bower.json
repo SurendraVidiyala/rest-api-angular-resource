@@ -1,10 +1,10 @@
 {
-    "name": "http-handling-errors",
+    "name": "rest-api-angular-resource",
     "homepage": "https://github.com/SurendraVidiyala/angular-client-server",
     "authors": [
         "<surendra_vidiyala> <<vidiyala.surendra@gmail.com>>"
     ],
-    "description": "example on cllient server communiication in angularjs",
+    "description": "example on client server communiication in angularjs",
     "main": "app/index.html",
     "keywords": [
         "angular",
