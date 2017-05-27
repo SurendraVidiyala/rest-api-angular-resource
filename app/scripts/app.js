@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('anupamaApp', ['ui.router'])
+angular.module('anupamaApp', ['ui.router', 'ngResource'])
     .config(function($stateProvider, $urlRouterProvider) {
         $stateProvider
 
